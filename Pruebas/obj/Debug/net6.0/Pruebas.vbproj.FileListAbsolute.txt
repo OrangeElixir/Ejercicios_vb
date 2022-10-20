@@ -1,0 +1,15 @@
+D:\asdf\Ejercicios\Pruebas\bin\Debug\net6.0\Pruebas.exe
+D:\asdf\Ejercicios\Pruebas\bin\Debug\net6.0\Pruebas.deps.json
+D:\asdf\Ejercicios\Pruebas\bin\Debug\net6.0\Pruebas.runtimeconfig.json
+D:\asdf\Ejercicios\Pruebas\bin\Debug\net6.0\Pruebas.dll
+D:\asdf\Ejercicios\Pruebas\bin\Debug\net6.0\Pruebas.pdb
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.vbproj.AssemblyReference.cache
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.AssemblyInfoInputs.cache
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.AssemblyInfo.vb
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.vbproj.CoreCompileInputs.cache
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.dll
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\refint\Pruebas.dll
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.pdb
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\Pruebas.genruntimeconfig.cache
+D:\asdf\Ejercicios\Pruebas\obj\Debug\net6.0\ref\Pruebas.dll
