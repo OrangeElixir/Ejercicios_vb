@@ -1,0 +1,16 @@
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\Prueba3.exe
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\Prueba3.deps.json
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\Prueba3.runtimeconfig.json
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\Prueba3.runtimeconfig.dev.json
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\Prueba3.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\ref\Prueba3.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\bin\Debug\net5.0\Prueba3.pdb
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.vbproj.AssemblyReference.cache
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.AssemblyInfoInputs.cache
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.AssemblyInfo.vb
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.vbproj.CoreCompileInputs.cache
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\ref\Prueba3.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.pdb
+C:\Users\MARCO AURELIO\Documents\Marco\Vb\Pruebas\Prueba3\obj\Debug\net5.0\Prueba3.genruntimeconfig.cache
